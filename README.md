@@ -1,4 +1,4 @@
-# Ecovation_Internship
+# Eckovation_Internship
 Regression_model
 
 **Statistical Arbitrage** 
